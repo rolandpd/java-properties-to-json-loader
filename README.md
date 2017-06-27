@@ -1,11 +1,11 @@
-# resx-to-json-loader
+# java-properties-to-json-loader
 Webpack loader to convert .resx-files to simple json (to use in i18n frameworks).
 
 
 ## Install
 
 ```
-npm install resx-to-json-loader --save
+npm install java-properties-to-json-loader --save
 ```
 
 ## Example
