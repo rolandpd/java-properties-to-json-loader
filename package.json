@@ -11,8 +11,8 @@
     "url": "git+https://github.com/rolandpd/java-properties-to-json-loader.git"
   },
   "keywords": [
-    "i18next",
-    "resx"
+    "properties",
+    "i18next"
   ],
   "author": "Roland Domagalski",
   "license": "UNLICENSED",
