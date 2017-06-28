@@ -1,6 +1,6 @@
 {
   "name": "java-properties-to-json-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack loader to convert .properties-files to simple json (to use in i18n frameworks).",
   "main": "index.js",
   "scripts": {
