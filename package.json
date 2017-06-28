@@ -21,10 +21,10 @@
   },
   "homepage": "https://github.com/rolandpd/java-properties-to-json-loader#readme",
   "dependencies": {
+    "glob": "^7.1.1",
     "promise": "^7.1.1",
     "properties": "^1.2.1"
   },
   "devDependencies": {
-    "glob": "^7.1.1"
   }
 }

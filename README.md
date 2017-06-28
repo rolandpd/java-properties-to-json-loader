@@ -1,5 +1,5 @@
 # java-properties-to-json-loader
-Webpack loader to convert .resx-files to simple json (to use in i18n frameworks).
+Webpack loader to convert .properties files to simple json (to use in i18n frameworks).
 
 
 ## Install
